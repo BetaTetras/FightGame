@@ -10,7 +10,9 @@ New Features:
 
 	‣ Added the "object" system.
 
-	‣ Added debug lines for checking the health status of each character. (There were some bugs with the health of the enemy 	and player; sometimes their HP would switch, but not anymore.)
+	‣ Added debug lines for checking the health status of each character. 
+	(There were some bugs with the health of the enemy and player. 
+	Sometimes their HP would switch, but not anymore.)
 
 New IG Features:
 
