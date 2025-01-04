@@ -2,7 +2,7 @@
 
 A mini game in C++ that features a turn-based fantasy fight.
 
-Features:
+New Features:
 
 Fight
     ‣ Health system
