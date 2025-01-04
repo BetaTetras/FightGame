@@ -20,8 +20,4 @@ Exit
 
 Only french version is avalable FOR NOW
 
-					    [------] NEW [------]
-
-    N/A: First version, so no new features/optimizations/bug fixes
-
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
