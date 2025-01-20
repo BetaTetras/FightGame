@@ -1,8 +1,6 @@
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-A mini game in C++ that features a turn-based fantasy fight.
-
-New Features:
+New Internal Features:
 
 	‣ The entire program is not in a single file; it is divided into specific files to help with debugging.
 
